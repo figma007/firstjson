@@ -1,0 +1,46 @@
+{
+  "malumotlar": [
+    {
+      "id": 1,
+      "name": "box1",
+      "img": "/Imgs/data-one.png",
+      "title": "Veb-ishlab chiqish",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "name": "box2",
+      "img": "/Imgs/data-two.png",
+      "title": "UI va UX dizayni",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 3,
+      "name": "box3",
+      "img": "/Imgs/data-three.png",
+      "title": "WordPress",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 4,
+      "name": "box4",
+      "img": "/Imgs/data-four.png",
+      "title": "Surat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 5,
+      "name": "box5",
+      "img": "/Imgs/data-five.png",
+      "title": "Ijtimoiy marketing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 6,
+      "name": "box6",
+      "img": "/Imgs/data-six.png",
+      "title": "Reklama",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}
